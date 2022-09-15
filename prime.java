@@ -2,7 +2,7 @@
  * Java Program - All Prime Numbers in Given Range
  */
  
-public class Example {
+public class prime{
  
     public static void main(String[] args) {
         //range
